@@ -30,6 +30,7 @@ No build step is required -- this is a single Jupyter notebook.
    pip install numpy matplotlib sympy
 ```
    (`random` and `time` are part of the Python standard library and don't need installing.)
+   
 3. Launch Jupyter and open the notebook:
 ```bash
    jupyter notebook notebook_name.ipynb
