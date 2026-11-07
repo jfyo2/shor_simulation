@@ -33,7 +33,7 @@ No build step is required -- this is a single Jupyter notebook.
    
 3. Launch Jupyter and open the notebook:
 ```bash
-   jupyter notebook notebook_name.ipynb
+   jupyter notebook shor_algorithm.ipynb
 ```
 4. Run all cells (Cell → Run All, or Shift+Enter through each cell).
 
